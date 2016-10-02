@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 OCT 2016 14:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 OCT 2016 02:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,7 +827,7 @@ Overfull \hbox (2.50375pt too wide) in paragraph at lines 102--102
   [] 
  []
 
-<./figures/kauke_arch_gray.pdf, id=144, 202.3556pt x 289.08pt>
+<./figures/kauke_arch_gray.pdf, id=104, 202.3556pt x 289.08pt>
 File: ./figures/kauke_arch_gray.pdf Graphic file (type pdf)
 
 <use ./figures/kauke_arch_gray.pdf>
@@ -846,7 +846,7 @@ l.103 ...rpage\thispagestyle{empty}\null\clearpage
                                                    [1
 
 ]
-<./figures/kauke_wordmark.pdf, id=183, 320.06438pt x 398.97574pt>
+<./figures/kauke_wordmark.pdf, id=143, 320.06438pt x 398.97574pt>
 File: ./figures/kauke_wordmark.pdf Graphic file (type pdf)
 
 <use ./figures/kauke_wordmark.pdf>
@@ -872,10 +872,6 @@ Package microtype Info: Setting up font `T1/pxr/m/sc/20' on input line 112.
 Package microtype Info: ... Loading protrusion list `ppl-sc-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `T1/pxr/m/it/10' on input line 113.
-Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
-Package microtype Info: ... : First loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
  [3
 
@@ -1003,13 +999,13 @@ Package microtype Info: ... No expansion.
 Package microtype Info: Setting up font `U/pxexa/m/n/5' on input line 13.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-LaTeX Font Info:    Try loading font information for T1+pxtt on input line 16.
+LaTeX Font Info:    Try loading font information for T1+pxtt on input line 18.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pxfonts/t1pxtt.fd
 File: t1pxtt.fd 2000/12/14 v1.0
 )
 Package microtype Info: ... No configuration file mt-pxtt.cfg.
-Package microtype Info: Setting up font `T1/pxtt/m/n/10' on input line 16.
+Package microtype Info: Setting up font `T1/pxtt/m/n/10' on input line 18.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `pxtt' (encoding: T1).
@@ -1017,32 +1013,32 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
- [7
-
-
-])
+)
 \tf@toc=\write6
 \openout6 = `username.toc'.
 
- [8]
+ [7
+
+
+]
 (./username.lof)
 \tf@lof=\write7
 \openout7 = `username.lof'.
 
- [9
+ [8
 
 ] (./username.lot)
 \tf@lot=\write8
 \openout8 = `username.lot'.
 
- [10
+ [9
 
 ] (./username.lol)
 \tf@lol=\write9
 \openout9 = `username.lol'.
 
 
-(./chapters/preface.tex [11
+(./chapters/preface.tex [10
 
 ]
 Package microtype Info: Setting up font `T1/pxr/m/n/27.0206' on input line 4.
@@ -1059,29 +1055,26 @@ Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 
 
-Package natbib Warning: Citation `mgbcr04' on page xii undefined on input line 
-8.
-
-
-Package natbib Warning: Citation `kd03' on page xii undefined on input line 8.
-
-
-Package natbib Warning: Citation `ophs03' on page xii undefined on input line 8
+Package natbib Warning: Citation `mgbcr04' on page xi undefined on input line 8
 .
 
 
-Package natbib Warning: Citation `feu02' on page xii undefined on input line 8.
+Package natbib Warning: Citation `kd03' on page xi undefined on input line 8.
+
+
+Package natbib Warning: Citation `ophs03' on page xi undefined on input line 8.
 
 
 
-Package natbib Warning: Citation `fly03' on page xii undefined on input line 8.
+Package natbib Warning: Citation `feu02' on page xi undefined on input line 8.
 
 
+Package natbib Warning: Citation `fly03' on page xi undefined on input line 8.
 
-Package natbib Warning: Citation `gra96' on page xii undefined on input line 8.
 
+Package natbib Warning: Citation `gra96' on page xi undefined on input line 8.
 
-) [12
+) [11
 
 ] (./chapters/introduction.tex
 CHAPTER 1.
@@ -1098,19 +1091,32 @@ Package microtype Info: ... Applying non-selected expansion (list `default').
 
 ]
 CHAPTER 2.
+Package microtype Info: Setting up font `T1/pxr/m/it/10' on input line 4.
+Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
+Package microtype Info: ... : First loading protrusion list `ppl-it'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
+[2
 
-Overfull \hbox (25.73895pt too wide) in paragraph at lines 14--15
+]
+Package microtype Info: Setting up font `T1/pxr/m/sl/10' on input line 5.
+Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
+Package microtype Info: ... : First loading protrusion list `ppl-it'.
+Package microtype Info: ... Applying non-selected expansion (list `default').
+ [3]
+CHAPTER 3.
+
+Overfull \hbox (25.73895pt too wide) in paragraph at lines 17--18
 \T1/pxtt/m/n/10 (-20) section]{An example of making a new section and giving it
  a short name}$\OMS/pxsy/m/n/10 n$\T1/pxtt/m/n/10 (-20) label{sec:newsec}\T1/px
 r/m/n/10 (-20) .
  []
 
-[2
+[4
 
 ]
 \openout3 = `username.exa'.
 
-Package microtype Info: Setting up font `T1/pxtt/m/n/9' on input line 30.
+Package microtype Info: Setting up font `T1/pxtt/m/n/9' on input line 33.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
@@ -1133,16 +1139,15 @@ Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 )
 
-Package natbib Warning: Citation `mgbcr04' on page 3 undefined on input line 58
+Package natbib Warning: Citation `mgbcr04' on page 5 undefined on input line 61
 .
 
-Package microtype Info: Setting up font `T1/pxr/m/sl/10' on input line 59.
-Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
-Package microtype Info: ... : First loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-[3]
+[5]
 
-LaTeX Warning: Reference `bdef1' on page 4 undefined on input line 61.
+LaTeX Warning: Reference `math' on page 6 undefined on input line 64.
+
+
+LaTeX Warning: Reference `bdef1' on page 6 undefined on input line 64.
 
 \openout3 = `username.exa'.
 
@@ -1164,7 +1169,7 @@ File: username.exa  (verbatim)
  (./username.exa)
 \openout3 = `username.exa'.
 
- [4]
+ [6]
 File: username.exa  (verbatim)
  (./username.exa
 Package microtype Info: Setting up font `OT1/pxr/bx/n/7' on input line 12.
@@ -1174,7 +1179,7 @@ Package microtype Info: Setting up font `OT1/pxr/bx/n/5' on input line 12.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 )
-Package microtype Info: Setting up font `OT1/pxr/bx/n/10' on input line 108.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/10' on input line 111.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 \openout3 = `username.exa'.
@@ -1193,96 +1198,96 @@ File: username.exa  (verbatim)
 (./username.exa)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) [5]
-Package microtype Info: Setting up font `T1/pxr/bx/n/9' on input line 189.
+) [7]
+Package microtype Info: Setting up font `T1/pxr/bx/n/9' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/n/9' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/n/6' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OML/pxmi/m/it/9' on input line 189.
+Package microtype Info: Setting up font `OML/pxmi/m/it/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/pxmi/m/it/6' on input line 189.
+Package microtype Info: Setting up font `OML/pxmi/m/it/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OMS/pxsy/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/9' on input line 189.
+Package microtype Info: Setting up font `OMX/pxex/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/m/n/6' on input line 189.
+Package microtype Info: Setting up font `OMX/pxex/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/bx/n/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/9' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/bx/n/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/bx/n/6' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `U/pxsya/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsya/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsya/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsyb/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsyb/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/m/it/9' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/it/9' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/m/it/6' on input line 189.
+Package microtype Info: Setting up font `OT1/pxr/m/it/6' on input line 192.
 Package microtype Info: ... Loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `U/pxmia/m/it/9' on input line 189.
+Package microtype Info: Setting up font `U/pxmia/m/it/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxmia/m/it/6' on input line 189.
+Package microtype Info: Setting up font `U/pxmia/m/it/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxsyc/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxsyc/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/9' on input line 189.
+Package microtype Info: Setting up font `U/pxexa/m/n/9' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/m/n/6' on input line 189.
+Package microtype Info: Setting up font `U/pxexa/m/n/6' on input line 192.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 
-[6] [7]
-Package microtype Info: Setting up font `T1/pxtt/m/sc/14.4' on input line 273.
+[8] [9]
+Package microtype Info: Setting up font `T1/pxtt/m/sc/14.4' on input line 276.
 Package microtype Info: ... Loading protrusion list `T1-sc'.
 Package microtype Info: ... : First loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-) (./chapters/chapter2.tex [8]
-CHAPTER 3.
-<./figures/picture3.pdf, id=464, 144.54pt x 144.54pt>
+) (./chapters/chapter2.tex [10]
+CHAPTER 4.
+<./figures/picture3.pdf, id=357, 144.54pt x 144.54pt>
 File: ./figures/picture3.pdf Graphic file (type pdf)
 
 <use ./figures/picture3.pdf>
 Package pdftex.def Info: ./figures/picture3.pdf used on input line 27.
 (pdftex.def)             Requested size: 115.63214pt x 115.63214pt.
- [9
+ [11
 
  <./figures/picture3.pdf>]
-<./figures/picture2.pdf, id=507, 352.31625pt x 273.02pt>
+<./figures/picture2.pdf, id=400, 352.31625pt x 273.02pt>
 File: ./figures/picture2.pdf Graphic file (type pdf)
 
 <use ./figures/picture2.pdf>
@@ -1303,8 +1308,8 @@ Underfull \hbox (badness 2165) in paragraph at lines 80--81
 \T1/pxr/m/n/10 (+20) Text Text Text
  []
 
-[10 <./figures/picture2.pdf>]
-<./figures/picture1.pdf, id=525, 349.305pt x 399.4925pt>
+[12 <./figures/picture2.pdf>]
+<./figures/picture1.pdf, id=419, 349.305pt x 399.4925pt>
 File: ./figures/picture1.pdf Graphic file (type pdf)
 
 <use ./figures/picture1.pdf>
@@ -1314,7 +1319,7 @@ File: ./figures/picture2.pdf Graphic file (type pdf)
  <use ./figures/picture2.pdf>
 Package pdftex.def Info: ./figures/picture2.pdf used on input line 113.
 (pdftex.def)             Requested size: 140.924pt x 109.20605pt.
- [11 <./figures/picture1.pdf>]
+ [13 <./figures/picture1.pdf>]
 File: ./figures/picture1.pdf Graphic file (type pdf)
  <use ./figures/picture1.pdf>
 Package pdftex.def Info: ./figures/picture1.pdf used on input line 135.
@@ -1325,437 +1330,103 @@ Package pdftex.def Info: ./figures/picture2.pdf used on input line 138.
 (pdftex.def)             Requested size: 140.924pt x 109.20605pt.
 
 
-Package natbib Warning: Citation `kd03' on page 12 undefined on input line 144.
+Package natbib Warning: Citation `kd03' on page 14 undefined on input line 144.
 
 
 
-Package natbib Warning: Citation `mgbcr04' on page 12 undefined on input line 1
+Package natbib Warning: Citation `mgbcr04' on page 14 undefined on input line 1
 44.
 
-[12] [13]
+[14] [15]
 
-Package natbib Warning: Citation `kd03' on page 14 undefined on input line 252.
+Package natbib Warning: Citation `kd03' on page 16 undefined on input line 252.
 
 
-) (./chapters/chapter3.tex [14]
-CHAPTER 4.
+) (./chapters/chapter3.tex [16]
+CHAPTER 5.
 
-Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 17 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 17 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 17 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `kd03' on page 15 undefined on input line 44.
+Package natbib Warning: Citation `kd03' on page 17 undefined on input line 44.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 15 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 17 undefined on input line 4
 4.
 
-[15
+[17
 
 ]
 
-Package natbib Warning: Citation `kd03' on page 16 undefined on input line 48.
+Package natbib Warning: Citation `kd03' on page 18 undefined on input line 48.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 16 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 18 undefined on input line 4
 8.
 
-) [16] (./appendices/math.tex
-APPENDIX A.
+) [18] (./username.bbl (./username.brf)
+\tf@brf=\write10
+\openout10 = `username.brf'.
 
-Package natbib Warning: Citation `ophs03' on page 17 undefined on input line 9.
-
-
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [17
+) [19
 
 
 ]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [18]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-
-Package natbib Warning: Citation `kd03' on page 19 undefined on input line 167.
-
-
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [19]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa)
-
-Package natbib Warning: Citation `kd03' on page 20 undefined on input line 231.
-
-
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [20]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-
-Package natbib Warning: Citation `mgbcr04' on page 21 undefined on input line 3
-01.
-
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-
-Package natbib Warning: Citation `kd03' on page 21 undefined on input line 332.
-
-
-[21]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-[22]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [23]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [24]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
-
-(./username.exa) [25pdfTeX warning (ext4): destination with the same identifier
- (name{equation.A.5.8}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.586 \end{singlespace}
-                       ]
-Package microtype Info: Setting up font `T1/pxr/m/it/9' on input line 600.
-Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
-Package microtype Info: ... : First loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa
-\c@law=\count160
-) [26]
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa
-\c@mur=\count161
-)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa
-Package microtype Info: Setting up font `OML/pxmi/bx/it/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/pxmi/bx/it/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/pxsy/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/pxex/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsya/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyb/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/pxr/bx/it/7' on input line 3.
-Package microtype Info: ... Loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `OT1/pxr/bx/it/5' on input line 3.
-Package microtype Info: ... Loading protrusion list `ppl-it'.
-Package microtype Info: ... Applying non-selected expansion (list `default').
-Package microtype Info: Setting up font `U/pxmia/bx/it/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxmia/bx/it/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxsyc/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/bx/n/7' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/pxexa/bx/n/5' on input line 3.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-)
-\openout3 = `username.exa'.
-
-File: username.exa  (verbatim)
- (./username.exa) [27]
-Overfull \hbox (36.03802pt too wide) in paragraph at lines 710--718
-\T1/pxr/m/n/10 (-20) fonts are not in-stalled, on your sys-tem, have a look at 
-\T1/pxtt/m/n/10 (-20) CTAN:/tex-archive/macros/latex/required/amslatex 
- []
-
-[28]
-
-LaTeX Warning: Text page 29 contains only floats.
-
-[29
-
-]
-
-LaTeX Warning: Text page 30 contains only floats.
-
-[30]
-LaTeX Font Info:    Try loading font information for U+eus on input line 1027.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/ueus.fd
-File: ueus.fd 2013/01/14 v3.01 Euler Script
-)
-Package microtype Info: ... Loading configuration file mt-eus.cfg.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-eus.cfg
-File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
-)
-Package microtype Info: Setting up font `U/eus/m/n/10' on input line 1027.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/eus/m/n/7' on input line 1027.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/eus/m/n/5' on input line 1027.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-)
-(./appendices/java.tex [31] [32] [33] [34]
-APPENDIX B.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(./source/Clock.java) [35
-
-] (./source/Consumer.java) (./source/EvilEmpire.java
-LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <9> not available
-(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 2.
-)) (./appendices/cpp.tex [36]
-APPENDIX C.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-(./source/Motion.cpp
-Package microtype Info: Setting up font `U/eus/m/n/9' on input line 6.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `U/eus/m/n/6' on input line 6.
-Package microtype Info: ... No protrusion.
-Package microtype Info: ... No expansion.
-) (./source/Plotter.cpp [37
-
-]
-LaTeX Font Info:    Font shape `OMS/pxr/m/it' in size <9> not available
-(Font)              Font shape `OMS/pxsy/m/n' tried instead on input line 25.
-) (./source/Simulation.cpp)
-(./source/Simulation.cpp [38]) (./source/Simulation.cpp)
-(./source/Simulation.cpp) [39] (./source/Simulation.cpp)
-(./source/Simulation.cpp) (./source/Simulation.cpp [40]))
-(./appendices/afterword.tex [41] [42
-
-])
-No file username.bbl.
-[43]
 No file username.ind.
-[44
+[20
 
 
 ]
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
 (./username.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `username.out' has not changed.
-(rerunfilecheck)             Checksum: FCD3141512793D52ABE3AA84D525394E;2144.
+(rerunfilecheck)             Checksum: FE5FE80E5C8509A188FDE12EB4B70715;1530.
+Package rerunfilecheck Info: File `username.brf' has not changed.
+(rerunfilecheck)             Checksum: 4A203432A303932A35F12CA890111F49;224.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 15022 strings out of 493014
- 216861 string characters out of 6133351
- 457794 words of memory out of 5000000
- 17065 multiletter control sequences out of 15000+600000
- 89298 words of font info for 509 fonts, out of 8000000 for 9000
+ 13980 strings out of 493014
+ 203078 string characters out of 6133351
+ 363596 words of memory out of 5000000
+ 16573 multiletter control sequences out of 15000+600000
+ 78049 words of font info for 425 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,23n,67p,1957b,1788s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,23n,45p,4619b,1754s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/pxex.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/pxexa.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/pxfonts/pxmia.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/public/pxfonts/pxsya.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/pxfonts/pxsyb.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/pxfonts/pxsyc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/pxfonts/rpxbmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/pxfonts/rpxi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfon
-ts/rpxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpx
-r.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpxr.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/pxfonts/rpxsc.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xttsc.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2016/texmf
--dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/urw/palatino/uplri8a.pfb>
-Output written on username.pdf (57 pages, 1051443 bytes).
+exlive/2016/texmf-dist/fonts/type1/public/pxfonts/pxex.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/pxfonts/rpxmi.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/pxfonts/rpxr.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/pxfonts/rpxsc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/txfonts/t1xtt.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/txfonts/t1xttsc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/pala
+tino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/up
+lr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on username.pdf (32 pages, 886285 bytes).
 PDF statistics:
- 1134 PDF objects out of 1200 (max. 8388607)
- 1001 compressed objects within 11 object streams
- 441 named destinations out of 1000 (max. 500000)
- 153906 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 542 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 143586 words of extra memory for PDF output out of 154059 (max. 10000000)
 

@@ -1,4 +1,5 @@
-\begin{displaymath}
-\mu, M \qquad
-\boldsymbol{\mu}, \boldsymbol{M}
-\end{displaymath}
+\begin{ex}[An example example]
+\label{ex:ex}
+This is an example of including an
+ example. Kind of silly isn't it.
+ \end{ex}
