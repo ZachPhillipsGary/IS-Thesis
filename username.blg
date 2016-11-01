@@ -3,51 +3,62 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: username.aux
 The style file: plainnat.bst
 Database file #1: references.bib
+I was expecting a `,' or a `}'---line 10 of file references.bib
+ :  
+ :  author = {David J. Chalmers},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "mgbcr04"
 Warning--I didn't find a database entry for "kd03"
 Warning--I didn't find a database entry for "ophs03"
 Warning--I didn't find a database entry for "feu02"
 Warning--I didn't find a database entry for "fly03"
 Warning--I didn't find a database entry for "gra96"
-You've used 1 entry,
+Warning--to sort, need author or key in ChalmersVR
+Warning--empty author in ChalmersVR
+Warning--empty title in ChalmersVR
+Warning--empty journal in ChalmersVR
+Warning--empty year in ChalmersVR
+Warning--empty year in ChalmersVR
+You've used 2 entries,
             2773 wiz_defined-function locations,
-            605 strings with 5020 characters,
-and the built_in function-call counts, 342 in all, are:
-= -- 26
+            607 strings with 5040 characters,
+and the built_in function-call counts, 583 in all, are:
+= -- 44
 > -- 10
 < -- 1
-+ -- 4
++ -- 5
 - -- 3
-* -- 19
-:= -- 62
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 3
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 20
-empty$ -- 33
+* -- 45
+:= -- 79
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 5
+chr.to.int$ -- 2
+cite$ -- 11
+duplicate$ -- 39
+empty$ -- 66
 format.name$ -- 4
-if$ -- 66
+if$ -- 118
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 14
+missing$ -- 3
+newline$ -- 17
 num.names$ -- 4
-pop$ -- 10
+pop$ -- 27
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 5
 quote$ -- 0
-skip$ -- 13
+skip$ -- 25
 stack$ -- 0
-substring$ -- 2
+substring$ -- 5
 swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
+type$ -- 17
+warning$ -- 6
 while$ -- 3
 width$ -- 0
-write$ -- 22
-(There were 6 warnings)
+write$ -- 28
+(There was 1 error message)
