@@ -1,17 +1,37 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Cha()]{ChalmersVR}
+\bibitem[Berkeley(2003)]{berkeley2003a}
+George Berkeley.
+\newblock \emph{A treatise concerning the principles of human knowledge}.
+\newblock Dover Publications, Mineola, N.Y, 2003.
+\newblock ISBN 978-0486432533.
 
+\bibitem[Lewis(1986)]{lewis1986on}
+David Lewis.
+\newblock \emph{On the plurality of worlds}.
+\newblock B. Blackwell, Oxford, UK New York, NY, USA, 1986.
+\newblock ISBN 0631139931.
 
 \bibitem[Siderits(2007)]{siderits2007buddhism}
 Mark Siderits.
 \newblock \emph{Buddhism as philosophy : an introduction}.
 \newblock Ashgate Hackett Pub. Co, Aldershot, England Indianapolis, IN, 2007.
 \newblock ISBN 978-0872208735.
+
+\bibitem[Wang and Doube(2011)]{Wang:2011:RRP:2013879.2014089}
+Norman Wang and Wendy Doube.
+\newblock How real is really? a perceptually motivated system for quantifying
+  visual realism in digital images.
+\newblock In \emph{Proceedings of the 2011 International Conference on
+  Multimedia and Signal Processing - Volume 02}, CMSP '11, pages 141--149,
+  Washington, DC, USA, 2011. IEEE Computer Society.
+\newblock ISBN 978-0-7695-4356-7.
+\newblock \doi{10.1109/CMSP.2011.172}.
+\newblock URL \url{http://dx.doi.org/10.1109/CMSP.2011.172}.
 
 \end{thebibliography}

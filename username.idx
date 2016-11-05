@@ -8,8 +8,8 @@
 \indexentry{lists|hyperpage}{9}
 \indexentry{lists!enumerated|hyperpage}{9}
 \indexentry{lists!itemized|hyperpage}{9}
-\indexentry{lists!descriptive|hyperpage}{9}
-\indexentry{packages!amsthm|hyperpage}{9}
+\indexentry{lists!descriptive|hyperpage}{10}
+\indexentry{packages!amsthm|hyperpage}{10}
 \indexentry{packages!paralist|hyperpage}{10}
 \indexentry{commands!substack|hyperpage}{11}
 \indexentry{cases@\verb+cases+|hyperpage}{11}
@@ -33,13 +33,13 @@
 \indexentry{woosterthesis options!picins|hyperpage}{14}
 \indexentry{woosterthesis options!verbatim|hyperpage}{14}
 \indexentry{woosterthesis options!xetex|hyperpage}{14}
-\indexentry{packages!listings|hyperpage}{14}
-\indexentry{packages!pxfonts|hyperpage}{14}
-\indexentry{packages!floatflt|hyperpage}{14}
-\indexentry{packages!makeidx|hyperpage}{14}
-\indexentry{packages!letterine|hyperpage}{14}
-\indexentry{packages!alltt|hyperpage}{14}
-\indexentry{packages!woofncychap|hyperpage}{14}
+\indexentry{packages!listings|hyperpage}{15}
+\indexentry{packages!pxfonts|hyperpage}{15}
+\indexentry{packages!floatflt|hyperpage}{15}
+\indexentry{packages!makeidx|hyperpage}{15}
+\indexentry{packages!letterine|hyperpage}{15}
+\indexentry{packages!alltt|hyperpage}{15}
+\indexentry{packages!woofncychap|hyperpage}{15}
 \indexentry{woosterthesis options!picins|hyperpage}{16}
 \indexentry{packages!wrapfig|hyperpage}{16}
 \indexentry{minipage|hyperpage}{17}

@@ -3,62 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: username.aux
 The style file: plainnat.bst
 Database file #1: references.bib
-I was expecting a `,' or a `}'---line 10 of file references.bib
- :  
- :  author = {David J. Chalmers},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "mgbcr04"
 Warning--I didn't find a database entry for "kd03"
 Warning--I didn't find a database entry for "ophs03"
 Warning--I didn't find a database entry for "feu02"
 Warning--I didn't find a database entry for "fly03"
 Warning--I didn't find a database entry for "gra96"
-Warning--to sort, need author or key in ChalmersVR
-Warning--empty author in ChalmersVR
-Warning--empty title in ChalmersVR
-Warning--empty journal in ChalmersVR
-Warning--empty year in ChalmersVR
-Warning--empty year in ChalmersVR
-You've used 2 entries,
+Warning--I didn't find a database entry for "ChalmersVR"
+You've used 4 entries,
             2773 wiz_defined-function locations,
-            607 strings with 5040 characters,
-and the built_in function-call counts, 583 in all, are:
-= -- 44
-> -- 10
-< -- 1
-+ -- 5
-- -- 3
-* -- 45
-:= -- 79
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 5
-chr.to.int$ -- 2
-cite$ -- 11
-duplicate$ -- 39
-empty$ -- 66
-format.name$ -- 4
-if$ -- 118
+            634 strings with 5695 characters,
+and the built_in function-call counts, 1590 in all, are:
+= -- 150
+> -- 51
+< -- 5
++ -- 19
+- -- 15
+* -- 96
+:= -- 254
+add.period$ -- 19
+call.type$ -- 4
+change.case$ -- 14
+chr.to.int$ -- 4
+cite$ -- 8
+duplicate$ -- 92
+empty$ -- 148
+format.name$ -- 21
+if$ -- 343
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 3
-newline$ -- 17
-num.names$ -- 4
-pop$ -- 27
+missing$ -- 7
+newline$ -- 34
+num.names$ -- 16
+pop$ -- 37
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 13
 quote$ -- 0
-skip$ -- 25
+skip$ -- 65
 stack$ -- 0
-substring$ -- 5
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 40
+swap$ -- 13
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 17
-warning$ -- 6
-while$ -- 3
+type$ -- 29
+warning$ -- 0
+while$ -- 15
 width$ -- 0
-write$ -- 28
-(There was 1 error message)
+write$ -- 74
+(There were 7 warnings)
