@@ -1,49 +1,49 @@
 \indexentry{LaTeX@\LaTeX|hyperpage}{xi}
-\indexentry{commands!chapter|hyperpage}{9}
-\indexentry{commands!subsection|hyperpage}{9}
-\indexentry{commands!chapter|hyperpage}{9}
-\indexentry{commands!emph|hyperpage}{9}
-\indexentry{commands!textit|hyperpage}{9}
-\indexentry{commands!textbf|hyperpage}{9}
-\indexentry{lists|hyperpage}{9}
-\indexentry{lists!enumerated|hyperpage}{9}
-\indexentry{lists!itemized|hyperpage}{9}
-\indexentry{lists!descriptive|hyperpage}{10}
-\indexentry{packages!amsthm|hyperpage}{10}
-\indexentry{packages!paralist|hyperpage}{10}
-\indexentry{commands!substack|hyperpage}{11}
-\indexentry{cases@\verb+cases+|hyperpage}{11}
-\indexentry{commands!intertext|hyperpage}{11}
-\indexentry{pseudocode|hyperpage}{12}
-\indexentry{commands!lstlisting|hyperpage}{12}
-\indexentry{packages!listings|hyperpage}{12}
-\indexentry{packages!listings|hyperpage}{12}
-\indexentry{listings!mathescape|hyperpage}{12}
-\indexentry{commands!lstlisting|hyperpage}{13}
-\indexentry{woosterthesis options!abstractonly|hyperpage}{14}
-\indexentry{woosterthesis options!alltt|hyperpage}{14}
-\indexentry{woosterthesis options!blacklinks|hyperpage}{14}
-\indexentry{woosterthesis options!code|hyperpage}{14}
-\indexentry{woosterthesis options!dropcaps|hyperpage}{14}
-\indexentry{woosterthesis options!euler|hyperpage}{14}
-\indexentry{woosterthesis options!guass|hyperpage}{14}
-\indexentry{woosterthesis options!index|hyperpage}{14}
-\indexentry{woosterthesis options!kaukecopyright|hyperpage}{14}
-\indexentry{woosterthesis options!palatino|hyperpage}{14}
-\indexentry{woosterthesis options!picins|hyperpage}{14}
-\indexentry{woosterthesis options!verbatim|hyperpage}{14}
-\indexentry{woosterthesis options!xetex|hyperpage}{14}
-\indexentry{packages!listings|hyperpage}{15}
-\indexentry{packages!pxfonts|hyperpage}{15}
-\indexentry{packages!floatflt|hyperpage}{15}
-\indexentry{packages!makeidx|hyperpage}{15}
-\indexentry{packages!letterine|hyperpage}{15}
-\indexentry{packages!alltt|hyperpage}{15}
-\indexentry{packages!woofncychap|hyperpage}{15}
+\indexentry{commands!chapter|hyperpage}{10}
+\indexentry{commands!subsection|hyperpage}{10}
+\indexentry{commands!chapter|hyperpage}{10}
+\indexentry{commands!emph|hyperpage}{11}
+\indexentry{commands!textit|hyperpage}{11}
+\indexentry{commands!textbf|hyperpage}{11}
+\indexentry{lists|hyperpage}{11}
+\indexentry{lists!enumerated|hyperpage}{11}
+\indexentry{lists!itemized|hyperpage}{11}
+\indexentry{lists!descriptive|hyperpage}{12}
+\indexentry{packages!amsthm|hyperpage}{12}
+\indexentry{packages!paralist|hyperpage}{12}
+\indexentry{commands!substack|hyperpage}{13}
+\indexentry{cases@\verb+cases+|hyperpage}{13}
+\indexentry{commands!intertext|hyperpage}{13}
+\indexentry{pseudocode|hyperpage}{14}
+\indexentry{commands!lstlisting|hyperpage}{14}
+\indexentry{packages!listings|hyperpage}{14}
+\indexentry{packages!listings|hyperpage}{14}
+\indexentry{listings!mathescape|hyperpage}{14}
+\indexentry{commands!lstlisting|hyperpage}{15}
+\indexentry{woosterthesis options!abstractonly|hyperpage}{16}
+\indexentry{woosterthesis options!alltt|hyperpage}{16}
+\indexentry{woosterthesis options!blacklinks|hyperpage}{16}
+\indexentry{woosterthesis options!code|hyperpage}{16}
+\indexentry{woosterthesis options!dropcaps|hyperpage}{16}
+\indexentry{woosterthesis options!euler|hyperpage}{16}
+\indexentry{woosterthesis options!guass|hyperpage}{16}
+\indexentry{woosterthesis options!index|hyperpage}{16}
+\indexentry{woosterthesis options!kaukecopyright|hyperpage}{16}
+\indexentry{woosterthesis options!palatino|hyperpage}{16}
 \indexentry{woosterthesis options!picins|hyperpage}{16}
-\indexentry{packages!wrapfig|hyperpage}{16}
-\indexentry{minipage|hyperpage}{17}
-\indexentry{packages!subfigure|hyperpage}{18}
-\indexentry{Wooster|hyperpage}{23}
-\indexentry{Wooster!User Services|hyperpage}{23}
-\indexentry{Wooster!User Services!Help Desk|hyperpage}{23}
+\indexentry{woosterthesis options!verbatim|hyperpage}{16}
+\indexentry{woosterthesis options!xetex|hyperpage}{16}
+\indexentry{packages!listings|hyperpage}{16}
+\indexentry{packages!pxfonts|hyperpage}{16}
+\indexentry{packages!floatflt|hyperpage}{16}
+\indexentry{packages!makeidx|hyperpage}{16}
+\indexentry{packages!letterine|hyperpage}{16}
+\indexentry{packages!alltt|hyperpage}{16}
+\indexentry{packages!woofncychap|hyperpage}{16}
+\indexentry{woosterthesis options!picins|hyperpage}{18}
+\indexentry{packages!wrapfig|hyperpage}{18}
+\indexentry{minipage|hyperpage}{19}
+\indexentry{packages!subfigure|hyperpage}{20}
+\indexentry{Wooster|hyperpage}{25}
+\indexentry{Wooster!User Services|hyperpage}{25}
+\indexentry{Wooster!User Services!Help Desk|hyperpage}{25}
