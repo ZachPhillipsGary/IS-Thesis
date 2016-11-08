@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 NOV 2016 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 NOV 2016 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1514,7 +1514,7 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `username.out' has not changed.
 (rerunfilecheck)             Checksum: DE417312A4688872F738AFC0C9E80709;1825.
 Package rerunfilecheck Info: File `username.brf' has not changed.
-(rerunfilecheck)             Checksum: 4B0E5B463CEE9D1A487678A11EDAFEF2;671.
+(rerunfilecheck)             Checksum: F6D6D8FC0353C7186E0A38F726BE72C0;671.
 
 
 LaTeX Warning: There were undefined references.
@@ -1544,7 +1544,7 @@ public/txfonts/t1xtt.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
 no/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr
 8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on username.pdf (41 pages, 1107604 bytes).
+Output written on username.pdf (41 pages, 1107864 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  533 compressed objects within 6 object streams
