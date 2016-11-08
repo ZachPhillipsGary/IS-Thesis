@@ -12,20 +12,20 @@
 \contentsline {chapter}{\numberline {2}Are Virtual Things Real?}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Definitions}{2}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Are virtual objects real?}{3}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Awareness and Virtual Reality}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Materialism and VR}{7}{subsection.2.2.1}
-\contentsline {chapter}{\numberline {3}Quantifying the realness of virtual worlds }{8}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{8}{section.3.1}
-\contentsline {section}{\numberline {3.2}Emotion and immersion}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}My new section}{10}{section.3.3}
-\contentsline {section}{\numberline {3.4}Theorems, definitions, examples, oh my!}{12}{section.3.4}
-\contentsline {section}{\numberline {3.5}Putting code in the main body of the thesis}{14}{section.3.5}
-\contentsline {section}{\numberline {3.6}What is in \texttt {username.tex}}{16}{section.3.6}
-\contentsline {chapter}{\numberline {4}Working with figures and tables}{18}{chapter.4}
-\contentsline {section}{\numberline {4.1}Getting a simple figure in the document}{18}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Minipages}{19}{subsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.1}Two pictures in one figure}{19}{subsubsection.4.1.1.1}
-\contentsline {section}{\numberline {4.2}Tables}{21}{section.4.2}
-\contentsline {chapter}{\numberline {5}Working with bibliographies and indicies}{24}{chapter.5}
-\contentsline {chapter}{References}{26}{appendix*.22}
-\contentsline {chapter}{Index}{27}{section*.23}
+\contentsline {section}{\numberline {2.2}Awareness and Virtual Reality}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Materialism and VR}{8}{subsection.2.2.1}
+\contentsline {chapter}{\numberline {3}Quantifying the realness of virtual worlds }{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Emotion and immersion}{10}{section.3.2}
+\contentsline {section}{\numberline {3.3}My new section}{11}{section.3.3}
+\contentsline {section}{\numberline {3.4}Theorems, definitions, examples, oh my!}{13}{section.3.4}
+\contentsline {section}{\numberline {3.5}Putting code in the main body of the thesis}{15}{section.3.5}
+\contentsline {section}{\numberline {3.6}What is in \texttt {username.tex}}{17}{section.3.6}
+\contentsline {chapter}{\numberline {4}Working with figures and tables}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Getting a simple figure in the document}{19}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Minipages}{20}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Two pictures in one figure}{20}{subsubsection.4.1.1.1}
+\contentsline {section}{\numberline {4.2}Tables}{22}{section.4.2}
+\contentsline {chapter}{\numberline {5}Working with bibliographies and indicies}{25}{chapter.5}
+\contentsline {chapter}{References}{27}{appendix*.22}
+\contentsline {chapter}{Index}{28}{section*.23}
