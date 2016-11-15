@@ -3,6 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: username.aux
 The style file: plainnat.bst
 Database file #1: references.bib
+Repeated entry---line 41 of file references.bib
+ : @book{lewis1986on
+ :                  ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "mgbcr04"
 Warning--I didn't find a database entry for "kd03"
 Warning--I didn't find a database entry for "ophs03"
@@ -10,45 +14,50 @@ Warning--I didn't find a database entry for "feu02"
 Warning--I didn't find a database entry for "fly03"
 Warning--I didn't find a database entry for "gra96"
 Warning--I didn't find a database entry for "ChalmersVR"
-You've used 4 entries,
+Warning--I didn't find a database entry for "Lewis"
+Warning--I didn't find a database entry for "fig:FF7"
+Warning--I didn't find a database entry for "fig:MCmonster"
+Warning--to sort, need author or key in EVEArticle
+Warning--empty year in EVEArticle
+You've used 8 entries,
             2773 wiz_defined-function locations,
-            634 strings with 5695 characters,
-and the built_in function-call counts, 1590 in all, are:
-= -- 150
-> -- 51
-< -- 5
-+ -- 19
-- -- 15
-* -- 96
-:= -- 254
-add.period$ -- 19
-call.type$ -- 4
-change.case$ -- 14
-chr.to.int$ -- 4
-cite$ -- 8
-duplicate$ -- 92
-empty$ -- 148
-format.name$ -- 21
-if$ -- 343
+            668 strings with 6269 characters,
+and the built_in function-call counts, 3142 in all, are:
+= -- 303
+> -- 92
+< -- 9
++ -- 35
+- -- 27
+* -- 192
+:= -- 464
+add.period$ -- 33
+call.type$ -- 8
+change.case$ -- 29
+chr.to.int$ -- 8
+cite$ -- 19
+duplicate$ -- 181
+empty$ -- 309
+format.name$ -- 38
+if$ -- 695
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 7
-newline$ -- 34
-num.names$ -- 16
-pop$ -- 37
+missing$ -- 11
+newline$ -- 55
+num.names$ -- 28
+pop$ -- 83
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 25
 quote$ -- 0
-skip$ -- 65
+skip$ -- 130
 stack$ -- 0
-substring$ -- 40
-swap$ -- 13
-text.length$ -- 1
+substring$ -- 108
+swap$ -- 29
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 29
-warning$ -- 0
-while$ -- 15
+type$ -- 68
+warning$ -- 2
+while$ -- 29
 width$ -- 0
-write$ -- 74
-(There were 7 warnings)
+write$ -- 127
+(There was 1 error message)

@@ -1,9 +1,15 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[EVE()]{EVEArticle}
+Virtual theft in eve online.
+\newblock
+  \url{http://arstechnica.com/gaming/2009/07/virtual-theft-in-eve-online-creates-run-on-bank/}.
+\newblock Accessed: 2016-11-10.
 
 \bibitem[Berkeley(2003)]{berkeley2003a}
 George Berkeley.
@@ -11,11 +17,28 @@ George Berkeley.
 \newblock Dover Publications, Mineola, N.Y, 2003.
 \newblock ISBN 978-0486432533.
 
+\bibitem[Brown and Cairns(2004)]{Brown04agrounded}
+Emily Brown and Paul Cairns.
+\newblock A grounded investigation of game immersion.
+\newblock In \emph{Proc. Chi 2004, ACM Press}, pages 1297--1300. Press, 2004.
+
+\bibitem[Lewis(1978)]{Lewis1978-LEWTIF}
+David Lewis.
+\newblock Truth in fiction.
+\newblock \emph{American Philosophical Quarterly}, 15\penalty0 (1):\penalty0
+  37--46, 1978.
+
 \bibitem[Lewis(1986)]{lewis1986on}
 David Lewis.
 \newblock \emph{On the plurality of worlds}.
 \newblock B. Blackwell, Oxford, UK New York, NY, USA, 1986.
 \newblock ISBN 0631139931.
+
+\bibitem[Lewis(2001)]{lewis2001counterfactuals}
+David Lewis.
+\newblock \emph{Counterfactuals}.
+\newblock Blackwell Publishers, Malden, Mass, 2001.
+\newblock ISBN 978-0631224952.
 
 \bibitem[Siderits(2007)]{siderits2007buddhism}
 Mark Siderits.
