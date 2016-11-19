@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: username.aux
 The style file: plainnat.bst
 Database file #1: references.bib
-Repeated entry---line 41 of file references.bib
+Repeated entry---line 54 of file references.bib
  : @book{lewis1986on
  :                  ,
 I'm skipping whatever remains of this entry
@@ -13,51 +13,50 @@ Warning--I didn't find a database entry for "ophs03"
 Warning--I didn't find a database entry for "feu02"
 Warning--I didn't find a database entry for "fly03"
 Warning--I didn't find a database entry for "gra96"
-Warning--I didn't find a database entry for "ChalmersVR"
 Warning--I didn't find a database entry for "Lewis"
 Warning--I didn't find a database entry for "fig:FF7"
 Warning--I didn't find a database entry for "fig:MCmonster"
 Warning--to sort, need author or key in EVEArticle
 Warning--empty year in EVEArticle
-You've used 8 entries,
+You've used 16 entries,
             2773 wiz_defined-function locations,
-            668 strings with 6269 characters,
-and the built_in function-call counts, 3142 in all, are:
-= -- 303
-> -- 92
-< -- 9
-+ -- 35
-- -- 27
-* -- 192
-:= -- 464
-add.period$ -- 33
-call.type$ -- 8
-change.case$ -- 29
-chr.to.int$ -- 8
-cite$ -- 19
-duplicate$ -- 181
-empty$ -- 309
-format.name$ -- 38
-if$ -- 695
+            741 strings with 8218 characters,
+and the built_in function-call counts, 6822 in all, are:
+= -- 667
+> -- 245
+< -- 17
++ -- 88
+- -- 72
+* -- 464
+:= -- 1019
+add.period$ -- 73
+call.type$ -- 16
+change.case$ -- 66
+chr.to.int$ -- 16
+cite$ -- 35
+duplicate$ -- 359
+empty$ -- 628
+format.name$ -- 97
+if$ -- 1500
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 11
-newline$ -- 55
-num.names$ -- 28
-pop$ -- 83
+missing$ -- 19
+newline$ -- 109
+num.names$ -- 60
+pop$ -- 157
 preamble$ -- 1
-purify$ -- 25
+purify$ -- 56
 quote$ -- 0
-skip$ -- 130
+skip$ -- 270
 stack$ -- 0
-substring$ -- 108
-swap$ -- 29
-text.length$ -- 2
+substring$ -- 250
+swap$ -- 60
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
+type$ -- 146
 warning$ -- 2
-while$ -- 29
+while$ -- 61
 width$ -- 0
-write$ -- 127
+write$ -- 263
 (There was 1 error message)
