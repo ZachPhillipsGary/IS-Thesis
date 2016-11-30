@@ -18,45 +18,45 @@ Warning--I didn't find a database entry for "fig:FF7"
 Warning--I didn't find a database entry for "fig:MCmonster"
 Warning--to sort, need author or key in EVEArticle
 Warning--empty year in EVEArticle
-You've used 16 entries,
+You've used 19 entries,
             2773 wiz_defined-function locations,
-            741 strings with 8218 characters,
-and the built_in function-call counts, 6822 in all, are:
-= -- 667
-> -- 245
-< -- 17
-+ -- 88
-- -- 72
-* -- 464
-:= -- 1019
-add.period$ -- 73
-call.type$ -- 16
-change.case$ -- 66
-chr.to.int$ -- 16
-cite$ -- 35
-duplicate$ -- 359
-empty$ -- 628
-format.name$ -- 97
-if$ -- 1500
+            765 strings with 8876 characters,
+and the built_in function-call counts, 8145 in all, are:
+= -- 782
+> -- 322
+< -- 19
++ -- 115
+- -- 96
+* -- 570
+:= -- 1237
+add.period$ -- 87
+call.type$ -- 19
+change.case$ -- 81
+chr.to.int$ -- 19
+cite$ -- 41
+duplicate$ -- 420
+empty$ -- 735
+format.name$ -- 124
+if$ -- 1774
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 19
-newline$ -- 109
-num.names$ -- 60
-pop$ -- 157
+missing$ -- 24
+newline$ -- 129
+num.names$ -- 72
+pop$ -- 190
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 70
 quote$ -- 0
-skip$ -- 270
+skip$ -- 312
 stack$ -- 0
-substring$ -- 250
-swap$ -- 60
+substring$ -- 283
+swap$ -- 63
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 146
+type$ -- 169
 warning$ -- 2
-while$ -- 61
+while$ -- 71
 width$ -- 0
-write$ -- 263
+write$ -- 312
 (There was 1 error message)

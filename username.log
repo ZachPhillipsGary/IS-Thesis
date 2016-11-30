@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  19 NOV 2016 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 NOV 2016 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,7 +839,7 @@ Overfull \hbox (2.50375pt too wide) in paragraph at lines 102--102
   [] 
  []
 
-<./figures/kauke_arch_gray.pdf, id=128, 202.3556pt x 289.08pt>
+<./figures/kauke_arch_gray.pdf, id=148, 202.3556pt x 289.08pt>
 File: ./figures/kauke_arch_gray.pdf Graphic file (type pdf)
 
 <use ./figures/kauke_arch_gray.pdf>
@@ -858,7 +858,7 @@ l.103 ...rpage\thispagestyle{empty}\null\clearpage
                                                    [1
 
 ]
-<./figures/kauke_wordmark.pdf, id=167, 320.06438pt x 398.97574pt>
+<./figures/kauke_wordmark.pdf, id=187, 320.06438pt x 398.97574pt>
 File: ./figures/kauke_wordmark.pdf Graphic file (type pdf)
 
 <use ./figures/kauke_wordmark.pdf>
@@ -1015,32 +1015,32 @@ Package microtype Info: Setting up font `T1/pxr/m/it/10' on input line 14.
 Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-)
-\tf@toc=\write6
-\openout6 = `username.toc'.
-
  [7
 
 
-]
+])
+\tf@toc=\write6
+\openout6 = `username.toc'.
+
+ [8]
 (./username.lof)
 \tf@lof=\write7
 \openout7 = `username.lof'.
 
- [8
+ [9
 
 ] (./username.lot)
 \tf@lot=\write8
 \openout8 = `username.lot'.
 
- [9
+ [10
 
 ] (./username.lol)
 \tf@lol=\write9
 \openout9 = `username.lol'.
 
 
-(./chapters/preface.tex [10
+(./chapters/preface.tex [11
 
 ]
 Package microtype Info: Setting up font `T1/pxr/m/n/27.0206' on input line 4.
@@ -1071,26 +1071,29 @@ Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
 
 
-Package natbib Warning: Citation `mgbcr04' on page xi undefined on input line 8
+Package natbib Warning: Citation `mgbcr04' on page xii undefined on input line 
+8.
+
+
+Package natbib Warning: Citation `kd03' on page xii undefined on input line 8.
+
+
+Package natbib Warning: Citation `ophs03' on page xii undefined on input line 8
 .
 
 
-Package natbib Warning: Citation `kd03' on page xi undefined on input line 8.
-
-
-Package natbib Warning: Citation `ophs03' on page xi undefined on input line 8.
+Package natbib Warning: Citation `feu02' on page xii undefined on input line 8.
 
 
 
-Package natbib Warning: Citation `feu02' on page xi undefined on input line 8.
+Package natbib Warning: Citation `fly03' on page xii undefined on input line 8.
 
 
-Package natbib Warning: Citation `fly03' on page xi undefined on input line 8.
+
+Package natbib Warning: Citation `gra96' on page xii undefined on input line 8.
 
 
-Package natbib Warning: Citation `gra96' on page xi undefined on input line 8.
-
-) [11
+) [12
 
 ] (./chapters/introduction.tex
 CHAPTER 1.
@@ -1125,79 +1128,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
  []
 
 [5]
-Package microtype Info: Setting up font `T1/pxr/bx/it/10' on input line 33.
+Package microtype Info: Setting up font `T1/pxr/bx/it/10' on input line 35.
 Package microtype Info: ... Loading protrusion list `ppl-it-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-it'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
- [6] <4339410221_12d667f5b1_o.png, id=328, 3011.25pt x 2007.5pt>
+ [6] <4339410221_12d667f5b1_o.png, id=360, 3011.25pt x 2007.5pt>
 File: 4339410221_12d667f5b1_o.png Graphic file (type png)
 
 <use 4339410221_12d667f5b1_o.png>
-Package pdftex.def Info: 4339410221_12d667f5b1_o.png used on input line 47.
+Package pdftex.def Info: 4339410221_12d667f5b1_o.png used on input line 49.
 (pdftex.def)             Requested size: 256.0748pt x 170.71182pt.
  [7]
 
-Package natbib Warning: Citation `Lewis' on page 8 undefined on input line 70.
+Package natbib Warning: Citation `Lewis' on page 8 undefined on input line 72.
 
-[8 <./4339410221_12d667f5b1_o.png (PNG copy)>] [9]
-Package microtype Info: Setting up font `T1/pxr/m/sc/12' on input line 99.
+[8 <./4339410221_12d667f5b1_o.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+[9] [10]
+Package microtype Info: Setting up font `T1/pxr/m/sc/12' on input line 104.
 Package microtype Info: ... Loading protrusion list `ppl-sc-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
- [10] [11]
+ [11]
 CHAPTER 3.
 [12
 
 ] [13]
 
 Package natbib Warning: Citation `fig:FF7' on page 14 undefined on input line 1
-51.
+56.
 
-<maxresdefault.jpg, id=392, 1284.8pt x 722.7pt>
+<maxresdefault.jpg, id=423, 1284.8pt x 722.7pt>
 File: maxresdefault.jpg Graphic file (type jpg)
  <use maxresdefault.jpg>
-Package pdftex.def Info: maxresdefault.jpg used on input line 154.
+Package pdftex.def Info: maxresdefault.jpg used on input line 159.
 (pdftex.def)             Requested size: 256.0748pt x 144.0412pt.
 
 
 Package natbib Warning: Citation `fig:MCmonster' on page 14 undefined on input 
-line 158.
+line 163.
 
-<minecraft-32.jpg, id=393, 526.96875pt x 296.60812pt>
+<minecraft-32.jpg, id=424, 526.96875pt x 296.60812pt>
 File: minecraft-32.jpg Graphic file (type jpg)
  <use minecraft-32.jpg>
-Package pdftex.def Info: minecraft-32.jpg used on input line 161.
+Package pdftex.def Info: minecraft-32.jpg used on input line 166.
 (pdftex.def)             Requested size: 256.0748pt x 144.1399pt.
 
 
 Package natbib Warning: Citation `fig:MCmonster' on page 14 undefined on input 
-line 165.
+line 170.
 
-<minecraft-spider-300x240.jpg, id=394, 301.125pt x 240.9pt>
+<minecraft-spider-300x240.jpg, id=425, 301.125pt x 240.9pt>
 File: minecraft-spider-300x240.jpg Graphic file (type jpg)
 
 <use minecraft-spider-300x240.jpg>
-Package pdftex.def Info: minecraft-spider-300x240.jpg used on input line 168.
+Package pdftex.def Info: minecraft-spider-300x240.jpg used on input line 173.
 (pdftex.def)             Requested size: 256.0748pt x 204.8799pt.
- [14] [15 <./maxresdefault.jpg>])
-(./chapters/chapter2.tex [16 <./minecraft-32.jpg> <./minecraft-spider-300x240.j
-pg>] [17]
+ [14] [15 <./maxresdefault.jpg>] [16 <./minecraft-32.jpg> <./minecraft-spider-3
+00x240.jpg>] [17] [18]
+
+Package caption Warning: \label without proper reference on input line 218.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `table:tasks' on page 19 undefined on input line 209.
+
+
+LaTeX Warning: Reference `table:questions' on page 19 undefined on input line 2
+09.
+
+[19] [20]
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247  \end
+           {enumerate}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 247
+[][]
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247  \end{enumerate}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.247  \end{enumerate}
+                      
+Things are pretty mixed up, but I think the worst is over.
+
+) (./chapters/chapter2.tex [21]
 CHAPTER 4.
 Package microtype Info: Setting up font `T1/pxtt/m/n/9' on input line 7.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-<./figures/picture3.pdf, id=423, 144.54pt x 144.54pt>
+<./figures/picture3.pdf, id=496, 144.54pt x 144.54pt>
 File: ./figures/picture3.pdf Graphic file (type pdf)
 
 <use ./figures/picture3.pdf>
 Package pdftex.def Info: ./figures/picture3.pdf used on input line 27.
 (pdftex.def)             Requested size: 115.63214pt x 115.63214pt.
- [18
+ [22
 
  <./figures/picture3.pdf>]
-<./figures/picture2.pdf, id=467, 352.31625pt x 273.02pt>
+<./figures/picture2.pdf, id=539, 352.31625pt x 273.02pt>
 File: ./figures/picture2.pdf Graphic file (type pdf)
 
 <use ./figures/picture2.pdf>
@@ -1213,8 +1270,8 @@ Underfull \hbox (badness 2165) in paragraph at lines 80--81
 \T1/pxr/m/n/10 (+20) Text Text Text
  []
 
-[19 <./figures/picture2.pdf>]
-<./figures/picture1.pdf, id=486, 349.305pt x 399.4925pt>
+[23 <./figures/picture2.pdf>]
+<./figures/picture1.pdf, id=557, 349.305pt x 399.4925pt>
 File: ./figures/picture1.pdf Graphic file (type pdf)
 
 <use ./figures/picture1.pdf>
@@ -1224,7 +1281,7 @@ File: ./figures/picture2.pdf Graphic file (type pdf)
  <use ./figures/picture2.pdf>
 Package pdftex.def Info: ./figures/picture2.pdf used on input line 113.
 (pdftex.def)             Requested size: 140.924pt x 109.20605pt.
- [20 <./figures/picture1.pdf>]
+ [24 <./figures/picture1.pdf>]
 File: ./figures/picture1.pdf Graphic file (type pdf)
  <use ./figures/picture1.pdf>
 Package pdftex.def Info: ./figures/picture1.pdf used on input line 135.
@@ -1235,54 +1292,54 @@ Package pdftex.def Info: ./figures/picture2.pdf used on input line 138.
 (pdftex.def)             Requested size: 140.924pt x 109.20605pt.
 
 
-Package natbib Warning: Citation `kd03' on page 21 undefined on input line 144.
+Package natbib Warning: Citation `kd03' on page 25 undefined on input line 144.
 
 
 
-Package natbib Warning: Citation `mgbcr04' on page 21 undefined on input line 1
+Package natbib Warning: Citation `mgbcr04' on page 25 undefined on input line 1
 44.
 
 Package microtype Info: Setting up font `T1/pxr/m/n/5' on input line 167.
 Package microtype Info: ... Loading protrusion list `ppl-T1'.
 Package microtype Info: ... : First loading protrusion list `ppl-default'.
 Package microtype Info: ... Applying non-selected expansion (list `default').
-[21] [22]
+[25] [26]
 
-Package natbib Warning: Citation `kd03' on page 23 undefined on input line 252.
+Package natbib Warning: Citation `kd03' on page 27 undefined on input line 252.
 
 
-) (./chapters/chapter3.tex [23]
+) (./chapters/chapter3.tex [27]
 CHAPTER 5.
 
-Package natbib Warning: Citation `mgbcr04' on page 24 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 28 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 24 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 28 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 24 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 28 undefined on input line 4
 4.
 
 
-Package natbib Warning: Citation `kd03' on page 24 undefined on input line 44.
+Package natbib Warning: Citation `kd03' on page 28 undefined on input line 44.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 24 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 28 undefined on input line 4
 4.
 
-[24
+[28
 
 ]
 
-Package natbib Warning: Citation `kd03' on page 25 undefined on input line 48.
+Package natbib Warning: Citation `kd03' on page 29 undefined on input line 48.
 
 
-Package natbib Warning: Citation `mgbcr04' on page 25 undefined on input line 4
+Package natbib Warning: Citation `mgbcr04' on page 29 undefined on input line 4
 8.
 
-) [25] (./username.bbl (./username.brf)
+) [29] (./username.bbl (./username.brf)
 \tf@brf=\write10
 \openout10 = `username.brf'.
 
@@ -1292,12 +1349,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 ) http : / / arstechnica . com / gaming / 2009 / 07 /
  []
 
-[26
+[30
 
 
-]) [27]
+]) [31]
 No file username.ind.
-[28
+[32
 
 
 ]
@@ -1310,9 +1367,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
 Package rerunfilecheck Info: File `username.out' has not changed.
-(rerunfilecheck)             Checksum: 09488C6E77A1DD8FF6920D75D53AD840;1871.
+(rerunfilecheck)             Checksum: FDD89BA7C1BD17958E29C4C4AC10984C;2252.
 Package rerunfilecheck Info: File `username.brf' has not changed.
-(rerunfilecheck)             Checksum: B5A29FE2A6E5B1C362298C19F983E5BB;1856.
+(rerunfilecheck)             Checksum: D0CBD3988F6CFB97B31F936C6560E384;2026.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1320,11 +1380,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 13819 strings out of 493014
- 202459 string characters out of 6133351
- 328706 words of memory out of 5000000
- 16483 multiletter control sequences out of 15000+600000
- 61234 words of font info for 379 fonts, out of 8000000 for 9000
+ 13893 strings out of 493014
+ 203392 string characters out of 6133351
+ 328923 words of memory out of 5000000
+ 16509 multiletter control sequences out of 15000+600000
+ 62014 words of font info for 391 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,13n,45p,3034b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1337,10 +1397,10 @@ e1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatin
 o/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on username.pdf (40 pages, 1752893 bytes).
+Output written on username.pdf (45 pages, 1771080 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 539 compressed objects within 6 object streams
- 121 named destinations out of 1000 (max. 500000)
- 100646 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 724 PDF objects out of 1000 (max. 8388607)
+ 616 compressed objects within 7 object streams
+ 153 named destinations out of 1000 (max. 500000)
+ 100686 words of extra memory for PDF output out of 106986 (max. 10000000)
 

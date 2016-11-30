@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -16,6 +16,19 @@ George Berkeley.
 \newblock \emph{A treatise concerning the principles of human knowledge}.
 \newblock Dover Publications, Mineola, N.Y, 2003.
 \newblock ISBN 978-0486432533.
+
+\bibitem[Brockmyer et~al.(2009)Brockmyer, Fox, Curtiss, McBroom, Burkhart, and
+  Pidruzny]{Brockmyer2009624}
+Jeanne~H. Brockmyer, Christine~M. Fox, Kathleen~A. Curtiss, Evan McBroom,
+  Kimberly~M. Burkhart, and Jacquelyn~N. Pidruzny.
+\newblock The development of the game engagement questionnaire: A measure of
+  engagement in video game-playing.
+\newblock \emph{Journal of Experimental Social Psychology}, 45\penalty0
+  (4):\penalty0 624 -- 634, 2009.
+\newblock ISSN 0022-1031.
+\newblock \doi{http://dx.doi.org/10.1016/j.jesp.2009.02.016}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0022103109000444}.
 
 \bibitem[Brown and Cairns(2004)]{Brown04agrounded}
 Emily Brown and Paul Cairns.
@@ -54,6 +67,18 @@ James~J. Cummings and Jeremy~N. Bailenson.
 \newblock ISSN 1532-785X.
 \newblock \doi{10.1080/15213269.2015.1015740}.
 \newblock URL \url{http://dx.doi.org/10.1080/15213269.2015.1015740}.
+
+\bibitem[Goldie(2010)]{goldie2010the}
+Peter Goldie.
+\newblock \emph{The Oxford handbook of philosophy of emotion}.
+\newblock Oxford University Press, Oxford New York, 2010.
+\newblock ISBN 0199654379.
+
+\bibitem[Gould(2012)]{gould2012the}
+Josiah Gould.
+\newblock \emph{The philosophy of Chrysippus}.
+\newblock State Univ. of New York Press, Albany, 2012.
+\newblock ISBN 1438433743.
 
 \bibitem[Lewis(1978)]{Lewis1978-LEWTIF}
 David Lewis.
