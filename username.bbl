@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -10,6 +10,12 @@ Virtual theft in eve online.
 \newblock
   \url{http://arstechnica.com/gaming/2009/07/virtual-theft-in-eve-online-creates-run-on-bank/}.
 \newblock Accessed: 2016-11-10.
+
+\bibitem[Aristotle(1992)]{aristotle1992on}
+Aristotle.
+\newblock \emph{On sophistical refutations ; On coming-to-be and passing away}.
+\newblock Harvard University Press W. Heinemann, Cambridge, Mass. London, 1992.
+\newblock ISBN 0674994418.
 
 \bibitem[Berkeley(2003)]{berkeley2003a}
 George Berkeley.
@@ -80,6 +86,13 @@ Josiah Gould.
 \newblock State Univ. of New York Press, Albany, 2012.
 \newblock ISBN 1438433743.
 
+\bibitem[Hacker(1982)]{10.2307/4619602}
+P.~M.~S. Hacker.
+\newblock Events, ontology and grammar.
+\newblock \emph{Philosophy}, 57\penalty0 (222):\penalty0 477--486, 1982.
+\newblock ISSN 00318191, 1469817X.
+\newblock URL \url{http://www.jstor.org/stable/4619602}.
+
 \bibitem[Lewis(1978)]{Lewis1978-LEWTIF}
 David Lewis.
 \newblock Truth in fiction.
@@ -116,6 +129,30 @@ Dermot Moran.
 \newblock Routledge, London New York, 2000.
 \newblock ISBN 9780203196632.
 
+\bibitem[Nagarjuna(2013)]{2013nagarjuna}
+Nagarjuna.
+\newblock \emph{Nagarjuna's Middle way : the Mulamadhyamakakarika}.
+\newblock Wisdom Publications, Boston, 2013.
+\newblock ISBN 9781614290506.
+
+\bibitem[Plato(1921)]{plato1921plato}
+Plato.
+\newblock \emph{Plato}.
+\newblock Harvard University Press, Cambridge, Mass, 1921.
+\newblock ISBN 0674991850.
+
+\bibitem[Plato(2014)]{plato2014the}
+Plato.
+\newblock \emph{The republic}.
+\newblock Black \& White Classics, Place of publication not identified, 2014.
+\newblock ISBN 1503379981.
+
+\bibitem[Schutz(1962)]{schutz1962collected}
+Alfred Schutz.
+\newblock \emph{Collected papers}.
+\newblock Martinus Nijhoff, The Hague, 1962.
+\newblock ISBN 9400715145.
+
 \bibitem[Siderits(2007)]{siderits2007buddhism}
 Mark Siderits.
 \newblock \emph{Buddhism as philosophy : an introduction}.
@@ -130,6 +167,12 @@ Mel Slater, Martin Usoh, and Anthony Steed.
 \newblock ISSN 1531-3263.
 \newblock \doi{10.1162/pres.1994.3.2.130}.
 \newblock URL \url{http://dx.doi.org/10.1162/pres.1994.3.2.130}.
+
+\bibitem[Thomson(2012)]{thomson2012bacon}
+Garrett Thomson.
+\newblock \emph{Bacon to Kant : an introduction to modern philosophy}.
+\newblock Waveland Press, Inc, Long Grove, Ill, 2012.
+\newblock ISBN 1577667530.
 
 \bibitem[Wang and Doube(2011)]{Wang:2011:RRP:2013879.2014089}
 Norman Wang and Wendy Doube.

@@ -11,27 +11,32 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Are Virtual Things Real?}{2}{chapter.2}
 \contentsline {section}{\numberline {2.1}Definitions}{2}{section.2.1}
-\contentsline {section}{\numberline {2.2}What do we mean by \textit {real}?}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Virtual Realism and Fictionalism}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Awareness and Virtual Reality}{11}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Materialism and VR}{11}{subsection.2.4.1}
-\contentsline {chapter}{\numberline {3}Quantifying the realness of virtual worlds }{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{12}{section.3.1}
-\contentsline {section}{\numberline {3.2}What does it mean to be immersive}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Emotion and immersion}{14}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Introduction}{14}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}The Stoic Conception of Emotion }{17}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Phenomenology and Emotions}{17}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Subconscious Emotion and Immersion}{18}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Introduction}{18}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Methods}{18}{subsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.2.1}Participants}{18}{subsubsection.3.4.2.1}
-\contentsline {subsubsection}{\numberline {3.4.2.2}Procedure}{18}{subsubsection.3.4.2.2}
-\contentsline {chapter}{\numberline {4}Working with figures and tables}{22}{chapter.4}
-\contentsline {section}{\numberline {4.1}Getting a simple figure in the document}{22}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Minipages}{23}{subsection.4.1.1}
-\contentsline {subsubsection}{\numberline {4.1.1.1}Two pictures in one figure}{23}{subsubsection.4.1.1.1}
-\contentsline {section}{\numberline {4.2}Tables}{25}{section.4.2}
-\contentsline {chapter}{\numberline {5}Working with bibliographies and indicies}{28}{chapter.5}
-\contentsline {chapter}{References}{30}{appendix*.24}
-\contentsline {chapter}{Index}{32}{section*.25}
+\contentsline {section}{\numberline {2.2}Against Virtual Irrealism}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Virtual objects really exist}{4}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}On existence}{4}{subsubsection.2.2.1.1}
+\contentsline {subsection}{\numberline {2.2.2}What are virtual objects? }{4}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Events in virtual reality really do take place}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Is Virtual Reality Illusory?}{11}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}What do we mean by \textit {real}?}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}Virtual Realism and Fictionalism}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Materialism and VR}{16}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}Quantifying the realness of virtual worlds }{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}What does it mean to be immersive}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Emotion and immersion}{19}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Introduction}{19}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}The Stoic Conception of Emotion }{22}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Phenomenology and Emotions}{22}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Subconscious Emotion and Immersion}{23}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Introduction}{23}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Methods}{23}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Participants}{23}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Procedure}{23}{subsubsection.3.4.2.2}
+\contentsline {chapter}{\numberline {4}Working with figures and tables}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}Getting a simple figure in the document}{27}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Minipages}{28}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Two pictures in one figure}{28}{subsubsection.4.1.1.1}
+\contentsline {section}{\numberline {4.2}Tables}{30}{section.4.2}
+\contentsline {chapter}{\numberline {5}Working with bibliographies and indicies}{33}{chapter.5}
+\contentsline {chapter}{References}{35}{appendix*.24}
+\contentsline {chapter}{Index}{37}{section*.25}

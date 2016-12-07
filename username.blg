@@ -13,50 +13,83 @@ Warning--I didn't find a database entry for "ophs03"
 Warning--I didn't find a database entry for "feu02"
 Warning--I didn't find a database entry for "fly03"
 Warning--I didn't find a database entry for "gra96"
+Warning--I didn't find a database entry for "bibid"
 Warning--I didn't find a database entry for "Lewis"
 Warning--I didn't find a database entry for "fig:FF7"
 Warning--I didn't find a database entry for "fig:MCmonster"
+Name 1 in "Nagarjuna," has a comma at the end for entry 2013nagarjuna
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Nagarjuna," has a comma at the end for entry 2013nagarjuna
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato1921plato
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato1921plato
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato2014the
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato2014the
+while executing---line 1347 of file plainnat.bst
 Warning--to sort, need author or key in EVEArticle
 Warning--empty year in EVEArticle
-You've used 19 entries,
+Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Nagarjuna," has a comma at the end for entry 2013nagarjuna
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Nagarjuna," has a comma at the end for entry 2013nagarjuna
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato1921plato
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato1921plato
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato2014the
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Plato," has a comma at the end for entry plato2014the
+while executing---line 1429 of file plainnat.bst
+You've used 26 entries,
             2773 wiz_defined-function locations,
-            765 strings with 8876 characters,
-and the built_in function-call counts, 8145 in all, are:
-= -- 782
-> -- 322
-< -- 19
-+ -- 115
-- -- 96
-* -- 570
-:= -- 1237
-add.period$ -- 87
-call.type$ -- 19
-change.case$ -- 81
-chr.to.int$ -- 19
-cite$ -- 41
-duplicate$ -- 420
-empty$ -- 735
-format.name$ -- 124
-if$ -- 1774
+            817 strings with 9741 characters,
+and the built_in function-call counts, 10407 in all, are:
+= -- 979
+> -- 392
+< -- 26
++ -- 143
+- -- 117
+* -- 703
+:= -- 1613
+add.period$ -- 116
+call.type$ -- 26
+change.case$ -- 103
+chr.to.int$ -- 26
+cite$ -- 55
+duplicate$ -- 560
+empty$ -- 967
+format.name$ -- 152
+if$ -- 2252
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 24
-newline$ -- 129
-num.names$ -- 72
-pop$ -- 190
+missing$ -- 37
+newline$ -- 172
+num.names$ -- 100
+pop$ -- 255
 preamble$ -- 1
-purify$ -- 70
+purify$ -- 91
 quote$ -- 0
-skip$ -- 312
+skip$ -- 397
 stack$ -- 0
-substring$ -- 283
-swap$ -- 63
+substring$ -- 318
+swap$ -- 70
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 169
+type$ -- 216
 warning$ -- 2
-while$ -- 71
+while$ -- 93
 width$ -- 0
-write$ -- 312
-(There was 1 error message)
+write$ -- 419
+(There were 17 error messages)
