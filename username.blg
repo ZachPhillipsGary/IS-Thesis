@@ -3,9 +3,18 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: username.aux
 The style file: plainnat.bst
 Database file #1: references.bib
-Repeated entry---line 54 of file references.bib
+I was expecting a `,' or a `}'---line 31 of file references.bib
+ : 
+ : @Book{berkeley2003a,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 55 of file references.bib
  : @book{lewis1986on
  :                  ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 250 of file references.bib
+ : @book{nozick2013anarchy,
+ :                         ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "mgbcr04"
 Warning--I didn't find a database entry for "kd03"
@@ -34,7 +43,13 @@ while executing---line 1347 of file plainnat.bst
 Name 1 in "Plato," has a comma at the end for entry plato2014the
 while executing---line 1347 of file plainnat.bst
 Warning--to sort, need author or key in EVEArticle
+Warning--to sort, need author, editor, or key in nozick2013anarchy
 Warning--empty year in EVEArticle
+Warning--empty author and editor in nozick2013anarchy
+Warning--empty title in nozick2013anarchy
+Warning--empty publisher in nozick2013anarchy
+Warning--empty year in nozick2013anarchy
+Warning--empty year in nozick2013anarchy
 Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
 while executing---line 1429 of file plainnat.bst
 Name 1 in "Aristotle," has a comma at the end for entry aristotle1992on
@@ -51,45 +66,45 @@ Name 1 in "Plato," has a comma at the end for entry plato2014the
 while executing---line 1429 of file plainnat.bst
 Name 1 in "Plato," has a comma at the end for entry plato2014the
 while executing---line 1429 of file plainnat.bst
-You've used 26 entries,
+You've used 32 entries,
             2773 wiz_defined-function locations,
-            817 strings with 9741 characters,
-and the built_in function-call counts, 10407 in all, are:
-= -- 979
-> -- 392
-< -- 26
-+ -- 143
-- -- 117
-* -- 703
-:= -- 1613
-add.period$ -- 116
-call.type$ -- 26
-change.case$ -- 103
-chr.to.int$ -- 26
-cite$ -- 55
-duplicate$ -- 560
-empty$ -- 967
-format.name$ -- 152
-if$ -- 2252
+            854 strings with 10724 characters,
+and the built_in function-call counts, 12700 in all, are:
+= -- 1172
+> -- 488
+< -- 30
++ -- 178
+- -- 146
+* -- 877
+:= -- 1962
+add.period$ -- 138
+call.type$ -- 32
+change.case$ -- 129
+chr.to.int$ -- 32
+cite$ -- 74
+duplicate$ -- 691
+empty$ -- 1200
+format.name$ -- 186
+if$ -- 2740
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 37
-newline$ -- 172
-num.names$ -- 100
-pop$ -- 255
+missing$ -- 45
+newline$ -- 204
+num.names$ -- 124
+pop$ -- 331
 preamble$ -- 1
-purify$ -- 91
+purify$ -- 112
 quote$ -- 0
-skip$ -- 397
+skip$ -- 470
 stack$ -- 0
-substring$ -- 318
-swap$ -- 70
+substring$ -- 370
+swap$ -- 76
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
-warning$ -- 2
-while$ -- 93
+type$ -- 267
+warning$ -- 8
+while$ -- 111
 width$ -- 0
-write$ -- 419
-(There were 17 error messages)
+write$ -- 500
+(There were 19 error messages)

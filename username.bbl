@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,11 +11,21 @@ Virtual theft in eve online.
   \url{http://arstechnica.com/gaming/2009/07/virtual-theft-in-eve-online-creates-run-on-bank/}.
 \newblock Accessed: 2016-11-10.
 
+\bibitem[noz()]{nozick2013anarchy}
+
+
 \bibitem[Aristotle(1992)]{aristotle1992on}
 Aristotle.
 \newblock \emph{On sophistical refutations ; On coming-to-be and passing away}.
 \newblock Harvard University Press W. Heinemann, Cambridge, Mass. London, 1992.
 \newblock ISBN 0674994418.
+
+\bibitem[Baltzly(2014)]{sep-stoicism}
+Dirk Baltzly.
+\newblock Stoicism.
+\newblock In Edward~N. Zalta, editor, \emph{The Stanford Encyclopedia of
+  Philosophy}. Metaphysics Research Lab, Stanford University, spring 2014
+  edition, 2014.
 
 \bibitem[Berkeley(2003)]{berkeley2003a}
 George Berkeley.
@@ -41,10 +51,21 @@ Emily Brown and Paul Cairns.
 \newblock A grounded investigation of game immersion.
 \newblock In \emph{Proc. Chi 2004, ACM Press}, pages 1297--1300. Press, 2004.
 
+\bibitem[Cacioppo et~al.(2013)Cacioppo, Cacioppo, Gonzaga, Ogburn, and
+  VanderWeele]{Cacioppo_2013}
+J.~T. Cacioppo, S.~Cacioppo, G.~C. Gonzaga, E.~L. Ogburn, and T.~J.
+  VanderWeele.
+\newblock Marital satisfaction and break-ups differ across on-line and off-line
+  meeting venues.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 110\penalty0
+  (25):\penalty0 10135–10140, Jun 2013.
+\newblock ISSN 1091-6490.
+\newblock \doi{10.1073/pnas.1222447110}.
+\newblock URL \url{http://dx.doi.org/10.1073/pnas.1222447110}.
+
 \bibitem[Chalmers(2016)]{ChalmersVR}
 David~J. Chalmers.
 \newblock The virtual and the real, 03 2016.
-\newblock URL \url{http://consc.net/papers/virtual.pdf}.
 \newblock Do our minds draw a line between digitally and naturally generated
   experience? Is your smartphone part of your mind? NYU scholar David Chalmers
   delves into such questions on March 28. [Accessed: 2016 11 01].
@@ -135,6 +156,12 @@ Nagarjuna.
 \newblock Wisdom Publications, Boston, 2013.
 \newblock ISBN 9781614290506.
 
+\bibitem[Nussbaum(2001)]{nussbaum2001upheavals}
+Martha Nussbaum.
+\newblock \emph{Upheavals of thought : the intelligence of emotions}.
+\newblock Cambridge University Press, Cambridge New York, 2001.
+\newblock ISBN 0521531829.
+
 \bibitem[Plato(1921)]{plato1921plato}
 Plato.
 \newblock \emph{Plato}.
@@ -152,6 +179,13 @@ Alfred Schutz.
 \newblock \emph{Collected papers}.
 \newblock Martinus Nijhoff, The Hague, 1962.
 \newblock ISBN 9400715145.
+
+\bibitem[Schwitzgebel(2016)]{sep-introspection}
+Eric Schwitzgebel.
+\newblock Introspection.
+\newblock In Edward~N. Zalta, editor, \emph{The Stanford Encyclopedia of
+  Philosophy}. Metaphysics Research Lab, Stanford University, winter 2016
+  edition, 2016.
 
 \bibitem[Siderits(2007)]{siderits2007buddhism}
 Mark Siderits.
@@ -184,6 +218,12 @@ Norman Wang and Wendy Doube.
 \newblock ISBN 978-0-7695-4356-7.
 \newblock \doi{10.1109/CMSP.2011.172}.
 \newblock URL \url{http://dx.doi.org/10.1109/CMSP.2011.172}.
+
+\bibitem[Wittgenstein(2009)]{wittgenstein2009philosophische}
+Ludwig Wittgenstein.
+\newblock \emph{Philosophische Untersuchungen = Philosophical investigations}.
+\newblock Wiley-Blackwell, Chichester, West Sussex, U.K. Malden, MA, 2009.
+\newblock ISBN 1405159286.
 
 \bibitem[Zahorik and Jenison(1998)]{Zahorik98presenceas}
 P~Zahorik and R~L Jenison.
